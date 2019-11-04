@@ -6,5 +6,4 @@
 <h2> Email address: info@deepquest.io </h2>
 
 
-<h2> Take a chill pill </h2>
 
