@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "info@deepquest.io" 
+MAINTAINER "kunalbhujbal28@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
