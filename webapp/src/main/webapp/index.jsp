@@ -2,7 +2,7 @@
 <h2> Welcome to My Project !! </h2>
 <h3> This is awesomet !! </h3>
 <h3> Successfully deployed !! </h3>
-<h3> hostname -f </h3>
+echo "hostname"
 
 
 
