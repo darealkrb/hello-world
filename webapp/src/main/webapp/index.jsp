@@ -1,8 +1,8 @@
-<h1> Hey Kunal Rajendra Bhujbal, Wassup.................</h1>
-<h2> Welcome to My Project !! </h2>
-<h3> This is awesomet !! </h3>
+<h1> Hey Kunal Bhujbal </h1>
+<h2> Welcome to demo project</h2>
+<h3> If you see this page then...</h3>
 <h3> Successfully deployed !! </h3>
-echo "hostname"
+
 
 
 
